@@ -1,6 +1,5 @@
-  ## Hey, I'm Quentin
-
-<h1>Welcome into my Github!</h1> 
+## Hey, [I'm Quentin!]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1>Welcome on my Github!</h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/quentin--martinez) 
 [![Gmail Badge](https://img.shields.io/badge/contact@qmartinez.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@qmartinez.com)
@@ -11,15 +10,17 @@
 * Flutter
 * Machine Learning
 * Frontend and Backend Web Development
+* Bitcoin & blockchain
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AzRunRCE&layout=compact">
 
 ## Programming Languages
- <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'> <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-00ADD8?style=for-the-badge&logo=flutter&logoColor=white'> <img src='https://img.shields.io/badge/reactjs-00599C?style=for-the-badge&logo=react&logoColor=white'>
- 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  ## Technologies I Use
- <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/master/images/android.svg' height='40'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/main/images/android.svg' height='40'/><img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/AzRunRCE/AzRunRCE/blob/main/images/react.svg' width='33'/>
+ 
  
  ## Who am I?
  ```csharp
@@ -40,7 +41,7 @@ public class WhoAmI
 
     public void Ambitions()
     {
-        TDDMastering();
+        TDDmaining();
         PushMySaSProduct();
         LearnPiano();
         // Assume 10 more awesome ambitions here  ;)
