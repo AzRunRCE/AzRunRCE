@@ -1,8 +1,12 @@
 ## Hey, [I'm Quentin!]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+A extravert .NET FullStack dev,
 <h1>Welcome on my Github!</h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/quentin--martinez) 
 [![Gmail Badge](https://img.shields.io/badge/contact@qmartinez.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@qmartinez.com)
+[![Hire Me Badge](https://img.shields.io/badge/Malt-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://www.malt.fr/profile/quentinmartinez) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzRunRCE" alt="AzRunRCE" /> </p>
 
 ## :computer: Technologies I Love
@@ -41,12 +45,20 @@ public class WhoAmI
 
     public void Ambitions()
     {
-        TDDmaining();
+        TDDMastering();
         PushMySaSProduct();
         LearnPiano();
         // Assume 10 more awesome ambitions here  ;)
     }
  ```
+
+## You have a project?
+Let's collaborate and bring it to life
+ * Reach out to me on <img src = 'https://dam.malt.com/cms-front/maltLogo.png' width='50'/> today !
+
+[![Hire Me Badge](https://img.shields.io/badge/Hire-me!%20-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://www.malt.fr/profile/quentinmartinez) 
+
+
  
 ## Current Works
  * Learn AWS service & large scale architecture pattern
