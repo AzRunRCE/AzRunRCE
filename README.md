@@ -58,7 +58,8 @@ Let's collaborate and bring it to life
 
 [![Hire Me Badge](https://img.shields.io/badge/Hire-me!%20-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://www.malt.fr/profile/quentinmartinez) 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ## Current Works
  * Learn AWS service & large scale architecture pattern
