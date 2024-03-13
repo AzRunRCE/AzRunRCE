@@ -63,6 +63,18 @@ Let's collaborate and bring it to life
 ## Current Works
  * Learn AWS service & large scale architecture pattern
  * I'm currently working on 🔭 building app to stock analysis
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/AzRunRCE/CppHostCLR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzRunRCE&repo=CppHostCLR&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AzRunRCE" />
+</a>
+
+<a href="https://github.com/AzRunRCE/WarGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzRunRCE&repo=WarGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AzRunRCE" />
+</a>
+
  
 ## Other Stuff
   - :octocat: [My Resume](https://www.doyoubuzz.com/q-martinez)
