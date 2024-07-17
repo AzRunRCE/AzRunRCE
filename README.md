@@ -74,7 +74,7 @@ Let's collaborate and bring it to life
 <a href="https://github.com/AzRunRCE/WarGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzRunRCE&repo=WarGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AzRunRCE" />
 </a>
-<a href="https://github.com/AzRunRCE/CppHostCLR">
+<a href="https://github.com/AzRunRCE/Formation-.NET-Core">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzRunRCE&repo=Formation-.NET-Core&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AzRunRCE" />
 </a>
 
