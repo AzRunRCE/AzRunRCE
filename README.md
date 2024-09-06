@@ -7,6 +7,8 @@ A extravert .NET FullStack dev,
 [![Gmail Badge](https://img.shields.io/badge/contact@qmartinez.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@qmartinez.com)
 [![Hire Me Badge](https://img.shields.io/badge/Malt-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)](https://www.malt.fr/profile/quentinmartinez) 
 
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portefolio-004C99?style=for-the-badge)](https://qmartinez.com/projects/) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzRunRCE" alt="AzRunRCE" /> </p>
 
 ## :computer: Technologies I Love
